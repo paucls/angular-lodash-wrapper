@@ -1,0 +1,19 @@
+{
+  "name": "angular-lodash-wrapper",
+  "version": "0.0.1",
+  "authors": [
+    "Paulo Clavijo"
+  ],
+  "description": "This is simple module for wrapping the utility library Lo-dash in an Angular service",
+  "main": "angular-lodash-wrapper.js",
+  "keywords": [
+    "angular",
+    "lodash",
+    "underscore",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "dependencies": {
+	"lodash": ">=2.0.0"
+   }
+}
